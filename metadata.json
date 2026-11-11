@@ -1,0 +1,8 @@
+{
+  "name": "Remix BAUHAUS — Staatliches Bauhaus Archive \u0026 Interactive Atelier",
+  "description": "Constructivist modernist digital archive and interactive design laboratory embodying the Bauhaus principle of form follows function.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
